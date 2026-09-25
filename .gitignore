@@ -1,0 +1,10 @@
+# Entornos virtuales y cachés de Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
